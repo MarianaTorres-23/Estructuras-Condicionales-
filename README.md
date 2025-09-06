@@ -1,5 +1,6 @@
 # Estructuras-Condicionales-
 Mariana Juarez Torres 
+
 NC:24150837
 
 1-Clasificación de triángulos
