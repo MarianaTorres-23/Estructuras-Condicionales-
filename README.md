@@ -1,6 +1,7 @@
 # Estructuras-Condicionales-
 Mariana Juarez Torres 
 NC:24150837
+
 1-Clasificación de triángulos
 Solicita al usuario las 3 longitudes de los lados de un triángulo.
 Indica si es equilátero, isósceles o escaleno.
